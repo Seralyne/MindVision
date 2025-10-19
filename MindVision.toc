@@ -1,0 +1,10 @@
+## Interface: 110205
+## Title: Mind Vision
+## Author: Seralyne
+## Notes: Adjust the in-game gamma depending on the zone
+## Version: 0.0.1
+## SavedVariables: MindVisionDB
+
+libs.xml
+
+Core.lua
