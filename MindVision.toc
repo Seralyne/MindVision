@@ -2,7 +2,7 @@
 ## Title: Mind Vision
 ## Author: Seralyne
 ## Notes: Adjust the in-game gamma depending on the zone
-## Version: 0.0.1
+## Version: v1-Retail (11.2.5)
 ## SavedVariables: MindVisionDB
 
 libs.xml
